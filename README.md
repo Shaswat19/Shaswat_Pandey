@@ -47,6 +47,7 @@ I'm a data engineer with a knack for designing and optimizing data pipelines tha
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shaswat19&show_icons=true&theme=radical" alt="GitHub Stats">
+  <br clear = "both">
   <img src="https://raw.githubusercontent.com/Shaswat19/Shaswat19/output/snake.svg" alt="Snake animation" />
 
 </p>
