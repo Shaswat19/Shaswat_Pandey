@@ -59,9 +59,11 @@ I'm a data engineer with a knack for designing and optimizing data pipelines tha
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/shaswatpandey/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:shaswatp19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://wa.me/+918115188941" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
 </p>
 
 ---
@@ -75,5 +77,5 @@ I once debugged a data pipeline issue while hiking a mountain—nothing beats so
 *—all credit to my pipelines.*
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=your-username.your-username" alt="Visitor Count">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Shaswat19.Shaswat_Pandey" alt="Visitor Count">
 </p>
