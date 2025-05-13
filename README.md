@@ -1,4 +1,6 @@
-# 👨‍💻 Shaswat Pandey - Data Engineer
+<div align="center">
+  <h1> 👨‍💻 Shaswat Pandey - Data Engineer</h1>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Engineer-Building%20Robust%20Pipelines-0078D4?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Data Engineer Badge">
