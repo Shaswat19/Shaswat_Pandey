@@ -37,10 +37,12 @@ I'm a data engineer with a knack for designing and optimizing data pipelines tha
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" alt="Spark">
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" alt="Airflow">
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake">
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/SQLglot-4479A1?style=flat-square&logo=code&logoColor=white" alt="SQLglot">
+  <img src="https://img.shields.io/badge/Generative%20AI-A855F7?style=flat-square&logo=brain&logoColor=white" alt="Generative AI">
 </p>
 
 ---
@@ -74,7 +76,7 @@ I'm a data engineer with a knack for designing and optimizing data pipelines tha
 
 I once debugged a data pipeline issue while hiking a mountain—nothing beats solving a problem with a view! 🏞️
 
-> *“Data is the new oil, but only if you refine it properly.”*
+> *“Data is the new oil, but it’s my pipelines that turn it into gold!”*
 
 *—all credit to my pipelines.*
 
