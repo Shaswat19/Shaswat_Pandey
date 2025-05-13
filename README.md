@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Engineer-Building%20Robust%20Pipelines-0078D4?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Data Engineer Badge">
   <img src="https://img.shields.io/github/followers/Shaswat19?label=Follow&style=for-the-badge&color=181717&logo=github" alt="GitHub Followers">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+  <a href="https://www.linkedin.com/in/shaswatpandey/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
