@@ -81,5 +81,5 @@ I once debugged a data pipeline issue while hiking a mountain—nothing beats so
 *—all credit to my pipelines.*
 
 <p align="center">
-  <img src="https://vbr.nathanchung.dev/badge?page_id=Shaswat19.Shaswat_Pandey" alt="Visitor Count">
+  <img src="https://api.visitorbadge.io/api/visitors?path=Shaswat19.Shaswat_Pandey&label=Visitors&color=%232ccce4" alt="Visitor Count">
 </p>
