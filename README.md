@@ -1,9 +1,11 @@
 # 👨‍💻 Shaswat Pandey - Data Engineer
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Engineer-Building%20Pipelines%20%26%20Insights-blue?style=flat-square&logo=apache-spark" alt="Data Engineer Badge">
-  <img src="https://img.shields.io/github/followers/your-username?label=Follow&style=flat-square" alt="GitHub Followers">
-  <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/Data%20Engineer-Building%20Robust%20Pipelines-0078D4?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Data Engineer Badge">
+  <img src="https://img.shields.io/github/followers/Shaswat19?label=Follow&style=for-the-badge&color=181717&logo=github" alt="GitHub Followers">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 <p align="center">
