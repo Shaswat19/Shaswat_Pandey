@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1> 👨‍💻 Shaswat Pandey - Data Engineer</h1>
+  <h1> Hi 👋, I'm Shaswat Pandey</h1>
 </div>
 
 <div align="center">
