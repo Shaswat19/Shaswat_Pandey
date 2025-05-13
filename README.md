@@ -1,5 +1,12 @@
+
 <div align="center">
   <h1> 👨‍💻 Shaswat Pandey - Data Engineer</h1>
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1500&color=00C2FF&center=true&vCenter=true&width=500&lines=Data+Pipeline+Maestro;Databricks+Specialist;Generative+AI+Innovator;Pipeline+Problem-Solver" alt="Typing Animation">
+  </a>
 </div>
 
 <p align="center">
